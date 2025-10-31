@@ -2,6 +2,7 @@
   "packageManager": "pnpm@10.18.3",
   "devDependencies": {
     "typescript": "^5.9.3",
-    "valibot": "^1.1.0"
+    "valibot": "^1.1.0",
+    "zod": "^4.1.12"
   }
 }
